@@ -1,6 +1,5 @@
 # OM03 Assignment
 
-[TOC]
 
 # 1.预测误差R和R平方取值及其意义？
 
