@@ -18,7 +18,7 @@
 
 p44
 
-![image-20191114214635471](https://raw.githubusercontent.com/ruin1990/gitbook-omnotes/master/OMNotes/OM02Assignment.assets/image-20191114214635471.png)
+![image-20191114214635471](OM02Assignment.assets/image-20191114214635471.png)
 
 ## 3.应用波特五力模型分析新零售行业中的永辉bravo
 
