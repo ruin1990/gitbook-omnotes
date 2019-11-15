@@ -49,9 +49,9 @@
 ## 5.2019世界AI大会，马云和马斯克的对话，你有什么想法？
 
 http://www.chinaesm.com/jinrong/2019/0830/106313.html
-http://www.360doc.com/content/19/0916/11/62442717_861354595.shtml![image-20191114213618604](OM01Assignment.assets\image-20191114213618604.png)
+http://www.360doc.com/content/19/0916/11/62442717_861354595.shtml![image-20191114213618604](https://raw.githubusercontent.com/ruin1990/gitbook-omnotes/master/OMNotes/OM01Assignment.assets/image-20191114213618604.png)
 
-![image-20191114213636460](OM01Assignment.assets\image-20191114213636460.png)
+![image-20191114213636460](https://raw.githubusercontent.com/ruin1990/gitbook-omnotes/master/OMNotes/OM01Assignment.assets/image-20191114213636460.png)
 
 这次对话非常具有象征性意义，是东西方文化与文明的对话。西方文明一直是利用科技推动对自然的认识与改造，现在我们有了更远的目标——登录改造火星。而东方文明则更注重对人自身与人类文明的认识，所以马云会说通过AI更好地认识自已。马斯克认为AI比人更聪明将会超越人类，我们应该借助AI创造未来，比如实现永生。而马云则认为借助AI解决当下的问题与困难更重要
 
