@@ -151,9 +151,9 @@ print("RSFEb=",RSFEb)
 
 ### (a)
 
- $$MAD_A=\frac{\sum^{n}_{t=1}|A_t-F_{At}|}{n}=\frac{378}{10}=37.8$$ 
+$$MAD_A=\frac{\sum^{n}_{t=1}|A_t-F_{At}|}{n}=\frac{378}{10}=37.8$$ 
 
- $$MAD_B=\frac{\sum^{n}_{t=1}|A_t-F_{Bt}|}{n}=\frac{240}{10}=24$$ 
+$$MAD_B=\frac{\sum^{n}_{t=1}|A_t-F_{Bt}|}{n}=\frac{240}{10}=24$$ 
 
 ### (b)
 
